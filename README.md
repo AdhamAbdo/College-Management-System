@@ -1,2 +1,2 @@
-# College-Mangment-system
-college mangment system desktop application
+# Project-college-mangment-system
+cms , DB , coverltter doucmentation
