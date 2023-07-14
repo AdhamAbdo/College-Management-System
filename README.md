@@ -1,7 +1,7 @@
-# Project-college-mangment-system
-cms , DB , coverltter doucmentation
+# Project-college-management-system
+cms , DB, cover letter documentation
 
 
 ## Doucmentation Section
 
-![Screenshot]("Screenshot_(39).png")
+![Screenshot]("Screenshot (39).png")
