@@ -21,3 +21,6 @@ cms, DB, cover letter documentation
 ![Screenshot](Screenshot(51).png)
 ![Screenshot](Screenshot(52).png)
 ![Screenshot](Screenshot(54).png)
+![Screenshot](Screenshot(55).png)
+![Screenshot](Screenshot(57).png)
+
