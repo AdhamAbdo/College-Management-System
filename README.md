@@ -13,6 +13,13 @@ cms, DB, cover letter documentation
 ![Screenshot](Screenshot(46).png)
 ![Screenshot](Screenshot(47).png)
 
+
+## TeamWork
+
+
+![Screenshot](team.png)
+
+
 ## Project Section
 
 
